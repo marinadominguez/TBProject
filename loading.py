@@ -42,7 +42,7 @@ class Loader():
         
     def load(self):
         #load the image
-        print(f"Loading {self.dataset_name}...")
+        print(f"###### BEGIN LOADING {self.dataset_name} ######")
         
         #check if h5_file exists, otherwise create it
         h5_path = os.path.join('h5_data', self.dataset_name + '.h5')
