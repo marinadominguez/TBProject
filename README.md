@@ -1,5 +1,5 @@
 
-# Tuberculosis Project [[Project Page]](https://github.com/marinadominguez/TBProject)
+# Tuberculosis Project
 
 ## Data
 
